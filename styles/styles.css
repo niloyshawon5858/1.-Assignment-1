@@ -299,5 +299,26 @@ form input[type="text"] {
 }
 
 #newsletter .description {
-    margin-top: 24px;
+  margin-top: 24px;
+}
+
+/* ============ Section 07 (Footer) ============ */
+footer {
+  background: rgb(255, 255, 255);
+}
+.footer-content {
+  width: 1122px;
+  text-align: center;
+  margin: 0 auto;
+  border: 50px solid white;
+}
+.footer-icon-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-content hr {
+  margin: 30px;
+  border: 1px solid rgba(14, 14, 14, 0.1);
 }
