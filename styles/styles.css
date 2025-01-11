@@ -97,6 +97,54 @@ nav {
   margin-top: 16px;
   margin-bottom: 24px;
 }
+/* ============ Section (Pillars of "Bangladesh 2.0") ============ */
+.pillar-item-container {
+  display: flex;
+  gap: 24px;
+  justify-content: space-around;
+  padding: 24px;
+  margin: 30px auto;
+}
+
+.pillar-item-1 {
+  width: 302px;
+  height: auto;
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  padding: 24px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+}
+
+.pillar-item-2 {
+  width: 302px;
+  height: auto;
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  padding: 24px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+}
+
+.pillar-item-3 {
+  width: 302px;
+  height: auto;
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  padding: 24px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+}
+
+.pillar-item-4 {
+  width: 302px;
+  height: auto;
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  padding: 24px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+}
 
 /* ============ Section 02 (Vision Section) ============ */
 
